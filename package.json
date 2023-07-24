@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.33.2",
+    "axios": "^1.4.0",
+    "csv-parser": "^3.0.0",
+    "influx": "^5.9.3",
+    "mongodb": "^5.7.0",
+    "mysql2": "^3.5.2",
+    "pg": "^8.11.1"
+  }
+}
